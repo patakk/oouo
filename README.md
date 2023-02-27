@@ -6,5 +6,5 @@
 
 
 <p align="center">
-    <img width="700px" src="https://github.com/patakk/newpointilism/blob/master/sample.png">
+    <img width="700px" src="https://github.com/patakk/oouo/blob/master/sample.png">
 </p>
